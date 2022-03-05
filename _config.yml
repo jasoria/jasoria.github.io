@@ -51,6 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-show_excerpts: true
+show_excerpts: false
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
